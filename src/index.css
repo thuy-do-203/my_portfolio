@@ -127,6 +127,7 @@ select {
     /* background-color: rgba(130, 200, 224, 0.359); */
     /* background-color: rgba(180, 136, 174, 0.323); */
     background-color: #3ba0c56a;
+    box-shadow: 10px 10px rgba(205, 204, 204, 0.782);
 }
 
 .about-me_items {
