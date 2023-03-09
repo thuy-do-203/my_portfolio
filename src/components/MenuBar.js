@@ -8,14 +8,18 @@ const MenuBar = (props) => {
     const langContext = useContext(LangCtx)
     const authCtx = useContext(AuthCtx);
 
+    const handleClick = (event) => {
+        authCtx.toggleIsLoggedIn();
+    }
+
     return (
         <div className="center menu-bar">
             {authCtx.isLoggedIn ? (
                 <>
                     <div style={{ margin: "0 10px" }}>
-                        <Link to="/">
+                        <button className="button-back" onClick={handleClick}>
                             {getText("back", langContext.lang)}
-                        </Link>
+                        </button>
                     </div>
                 </>
             ) : (

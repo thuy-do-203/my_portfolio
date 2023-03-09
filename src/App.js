@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom"
 import Header from "./components/Header";
 import Body from "./components/Body";
@@ -6,9 +6,14 @@ import Footer from "./components/Footer";
 import AuthCtx from "./authContext";
 import LangCtx from "./langContext";
 
+
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [lang, setLang] = useState("en")
+
+  useEffect(() => {
+    document.title = 'My Portfolio';
+  }, []);
 
   const toggleIsLoggedIn = () => {
     setIsLoggedIn(!isLoggedIn)

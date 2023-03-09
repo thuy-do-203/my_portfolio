@@ -94,6 +94,11 @@ select {
     border-radius: 8px;
 }
 
+.button-back {
+    border: 0;
+    padding: 10px 20px;
+}
+
 .padding-3 {
     padding: 3px;
 }
@@ -280,7 +285,7 @@ select {
     }
 
     .nav-bar {
-        width: 130px;
+        width: 140px;
     }
 
     .project-img {
@@ -351,8 +356,8 @@ select {
     }
 
     .contact_items {
-        padding: 20px 10px 10px;
-        margin: 10px;
+        padding: 20px 5px 10px;
+        margin: 8px;
         text-align: center;
     }
 
