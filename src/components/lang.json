@@ -1,0 +1,141 @@
+{
+    "thuy-do": {
+        "vi": "Thùy Đỗ",
+        "en": "Thuy Do"
+    },
+    "welcome_message": {
+        "vi": "Xin chào, tôi là lập trình viên frontend",
+        "en": "Hi, I am a frontend developer"
+    },
+    "introduction": {
+        "vi": "Là một người có tư duy logic tốt, tôi muốn cống hiến trở thành một phần của công ty, đưa ra những giải pháp tối ưu cho khách hàng. Ngoài ra, tôi muốn nâng cao năng lực và khả năng của mình thông qua môi trường làm việc chuyên nghiệp của công ty.",
+        "en": "As someone who is organized and good at logic, I want to be a part of the main workforce for the company, to give optimal solutions for the customers. Also, I want to increase my capacity and ability through the company's professional work environment."
+    },
+    "get_started": {
+        "vi": "Bắt đầu",
+        "en": "Get started"
+    },
+    "slogan": {
+        "vi": "Học tập & cải thiện mỗi ngày.",
+        "en": "Learning & leveling everyday."
+    },
+    "back": {
+        "vi": "Quay lại",
+        "en": "Back"
+    },
+    "about-me": {
+        "vi": "Giới thiệu",
+        "en": "About me"
+    },
+    "education": {
+        "vi": "Học vấn",
+        "en": "Education"
+    },
+    "skills": {
+        "vi": "Kỹ năng",
+        "en": "Skills"
+    },
+    "projects": {
+        "vi": "Dự án",
+        "en": "Projects"
+    },
+    "contact": {
+        "vi": "Liên hệ",
+        "en": "Contact"
+    },
+    "frontend-developer": {
+        "vi": "Lập trình viên Frontend",
+        "en": "Frontend developer"
+    },
+    "sociable": {
+        "vi": "Năng động, hòa đồng và hướng ngoại",
+        "en": "Enthusiastic, sociable and extrovert"
+    },
+    "responsible": {
+        "vi": "Trách nhiệm cao với công việc",
+        "en": "Highly responsible at work"
+    },
+    "listener": {
+        "vi": "Biết lắng nghe và học hỏi nhanh",
+        "en": "A good listener and a fast learner"
+    },
+    "learner": {
+        "vi": "Luôn sẵn sàng học hỏi",
+        "en": "Always willing to learn"
+    },
+    "school": {
+        "vi": "Trường THPT chuyên Lê Hồng Phong",
+        "en": "Le Hong Phong high school"
+    },
+    "major": {
+        "vi": "Chuyên Anh",
+        "en": "Major: English"
+    },
+    "university": {
+        "vi": "Đại học Ngoại Thương",
+        "en": "Foreign Trade University"
+    },
+    "faculty": {
+        "vi": "Chuyên ngành Tiếng Anh thương mại",
+        "en": "Faculty of Business English"
+    },
+    "mindx": {
+        "vi": "Trung tâm MindX",
+        "en": "MindX Technology School"
+    },
+    "fullstack": {
+        "vi": "Lập trình viên fullstack",
+        "en": "Web Fullstack Developer"
+    },
+    "language": {
+        "vi": "NGÔN NGỮ",
+        "en": "LANGUAGE"
+    },
+    "programming-lang": {
+        "vi": "Ngôn ngữ lập trình:",
+        "en": "Programming language:"
+    },
+    "speaking-lang": {
+        "vi": "Ngôn ngữ nói:",
+        "en": "Speaking language:"
+    },
+    "english": {
+        "vi": "Tiếng Anh",
+        "en": "English"
+    },
+    "framework": {
+        "vi": "Thư viện:",
+        "en": "Framework:"
+    },
+    "dev-tools": {
+        "vi": "Công cụ",
+        "en": "Dev tools:"
+    },
+    "recent-work": {
+        "vi": "DỰ ÁN GẦN ĐÂY",
+        "en": "MY RECENT WORK"
+    },
+    "recent-project": {
+        "vi": "Đây là một trong những dự án gần đây mà tôi tham gia:",
+        "en": "Here is one of the projects I've worked on:"
+    },
+    "visit": {
+        "vi": "Xem trang web",
+        "en": "Visit my website"
+    },
+    "role": {
+        "vi": "Vai trò:",
+        "en": "Role:"
+    },
+    "achievements": {
+        "vi": "Thành tựu:",
+        "en": "Achievements:"
+    },
+    "practicing": {
+        "vi": "Luyện tập thành thạo HTML, CSS, Javascript, ReactJS, Git, Vercel",
+        "en": "Practicing HTML, CSS, Javascript, ReactJS, Git, Vercel"
+    }
+    
+
+
+}
