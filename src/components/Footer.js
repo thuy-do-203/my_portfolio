@@ -20,7 +20,7 @@ const Footer = () => {
                 }}
             >
                 <option value="en">English</option>
-                <option value="vi">Vietnamese</option>
+                <option value="vi">Tiếng Việt</option>
             </select>
         </div>
     );
