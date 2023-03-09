@@ -8,7 +8,7 @@ import LangCtx from "../langContext"
 const Education = () => {
     const langContext = useContext(LangCtx)
 
-    return <div className="flex justify-between width-80">
+    return <div className="flex justify-between width-80 education margin-bottom-30">
         <div className="education_items bckgr_items_color">
             <div>
                 <img src={school} alt="school" className="icon" />

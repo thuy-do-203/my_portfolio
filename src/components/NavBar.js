@@ -10,7 +10,7 @@ const navLinkClassName = (navLinkStatus) => {
 const NavBar = () => {
     const langContext = useContext(LangCtx)
     return (
-        <div className="nav-bar background-grey " style={{ width: 200 }}>
+        <div className="nav-bar background-grey">
             <div className="padding">
                 <NavLink className={navLinkClassName} to="/">{getText('about-me', langContext.lang)}</NavLink>
             </div>

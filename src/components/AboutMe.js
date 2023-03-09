@@ -9,7 +9,7 @@ import LangCtx from "../langContext"
 const AboutMe = () => {
     const langContext = useContext(LangCtx)
 
-    return <div className="width-80 flex center column">
+    return <div className="width-80 flex center column margin-bottom-30">
         <div className="about-me_items bckgr_items_color">
             <img src={sociable} alt="sociable" className="icon padding-right-20" />
             <span>{getText("sociable", langContext.lang)}</span>

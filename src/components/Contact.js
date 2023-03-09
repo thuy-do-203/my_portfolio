@@ -4,7 +4,7 @@ import mail from "../assets/mail.png"
 import fb from "../assets/fb.png"
 
 const Contact = () => {
-    return <div className="grid grid-2-2 width-80">
+    return <div className="grid grid-2-2 width-80 margin-bottom-30">
         <div className="contact_items bckgr_items_color">
             <div>
                 <img src={phone} alt="phone" className="icon" />

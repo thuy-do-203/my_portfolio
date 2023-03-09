@@ -7,7 +7,7 @@ import LangCtx from "../langContext"
 const Skills = () => {
     const langContext = useContext(LangCtx)
 
-    return <div className="flex padding justify-between width-60">
+    return <div className="flex padding justify-between width-60 skill">
         <div className="skill_items bckgr_items_color">
             <div><img src={reactjs} alt="reactjs" className="icon" /></div>
             <h3>FRONTEND</h3>

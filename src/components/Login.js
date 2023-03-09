@@ -18,7 +18,7 @@ const Login = (props) => {
     return (
         <form onSubmit={handleSubmit} className="flex column center">
             <img src={avatar} alt="My avatar" className="avatar_img" />
-            <h1>{getText('welcome_message', langContext.lang)}</h1>
+            <h1 className="text-align padding">{getText('welcome_message', langContext.lang)}</h1>
             <p className="text-align padding">{getText("introduction", langContext.lang)}</p>
             {/* <input type="text" value={value} onChange={(event) => { setValue(event.target.value) }} /> */}
             <button className="padding bckgr_items_color">{getText("get_started", langContext.lang)}</button>
