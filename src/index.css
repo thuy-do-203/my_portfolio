@@ -290,11 +290,11 @@ select {
     }
 
     .project-img {
-        width: 300px;
+        width: 200px;
     }
 
     .margin-bottom-30 {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 
     .about-me_items>span {
@@ -323,7 +323,6 @@ select {
         padding: 10px;
         margin: 10px;
         width: 80%;
-
     }
 
     .padding-right-20 {
@@ -357,8 +356,8 @@ select {
     }
 
     .contact_items {
-        padding: 20px 5px 10px;
-        margin: 8px;
+        padding: 20px 0px 5px;
+        margin: 10px;
         text-align: center;
     }
 

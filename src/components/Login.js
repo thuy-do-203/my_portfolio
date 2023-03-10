@@ -21,7 +21,7 @@ const Login = (props) => {
             <h1 className="text-align padding">{getText('welcome_message', langContext.lang)}</h1>
             <p className="text-align padding">{getText("introduction", langContext.lang)}</p>
             {/* <input type="text" value={value} onChange={(event) => { setValue(event.target.value) }} /> */}
-            <button className="padding bckgr_items_color">{getText("get_started", langContext.lang)}</button>
+            <button className="padding bckgr_items_color margin-bottom-30">{getText("get_started", langContext.lang)}</button>
         </form>
     )
 }
